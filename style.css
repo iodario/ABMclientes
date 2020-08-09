@@ -7,8 +7,7 @@
     padding: 8px 10px;
     position: fixed;
     bottom: 140px;
-    right: 160px;
-
+    right: 46px;
 }
 
 label{
@@ -17,5 +16,23 @@ label{
 
 h1{
     font-family: Montserrat, sans-serif;
+}
+
+.fa-edit{
+    border: 1px solid #092244;
+    border-radius: 40px;
+    font-size: 16px;
+    background-color: rgb(59, 124, 102);
+    color: white;
+    padding: 9px 8px;
+}
+
+.fa-trash-alt {
+    border: 1px solid #092244;
+    border-radius: 40px;
+    font-size: 16px;
+    background-color: #dc3545;
+    color: white;
+    padding: 9px 10px;
 }
 
